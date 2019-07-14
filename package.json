@@ -1,0 +1,20 @@
+{
+  "name": "node01",
+  "version": "10.15.1",
+  "description": "Matrizlab Website Starter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrizlab/node01.git"
+  },
+  "author": "matrizlab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matrizlab/node01/issues"
+  },
+  "homepage": "https://github.com/matrizlab/node01#readme"
+}
